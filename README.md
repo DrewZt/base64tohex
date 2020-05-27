@@ -1,7 +1,7 @@
 # base64ToHex
 
 ```
-go run keccak_function_signature.go
+go run base64ToHex.go
 ```
 http://127.0.0.1:8000/abcdef
 
